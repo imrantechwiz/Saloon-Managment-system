@@ -7,4 +7,4 @@
  sign in/sign up and can even book appointments. Users can also check rate list of the various services provided 
  and gallery of saloon infrastructure.
 </p>
-Link to Website: https://imrantechwiz.github.io/Salon-Managment-system.github.io/
+Link to Website: https://imrantechwiz.github.io/Salon-Managment-system/
