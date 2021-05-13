@@ -1,6 +1,6 @@
 # Salon-Managment-system
 
-##  First CSE326 - LPU Project 
+##  First CSE326 - LPU Project (2nd SEM)
 
 
 <p> I had made a website on Saloon management system by using HTML & CSS with basic JavaScript in which a user can 
